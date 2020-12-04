@@ -81,8 +81,8 @@
 
 .album-itembox ul li {
   float: left;
-  width: 24%;
-  height: 32%;
+  width: 23%;
+  height: 200px;
   margin-right: 1%;
   margin-bottom: 1%;
   cursor: pointer;
@@ -91,14 +91,14 @@
 
 @media (max-width: 1080px) {
   .album-itembox ul li {
-    height: 29%;
-    width: 32%;
+    height: 180px;
+    width: 23%;
   }
 }
 @media (max-width: 768px) {
   .album-itembox ul li {
-    height: 29%;
-    width: 32%;
+    height: 100px;
+    width: 23%;
   }
 }
 
